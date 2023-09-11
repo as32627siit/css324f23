@@ -1,4 +1,4 @@
 [
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
-    {"name": "Cholwich Nattee", "sid": "6422771111"},
+    {"name": "์Nithipol Punsanit", "sid": "6422782951"},
+    {"name": "Chotiphat Suwasaraporn", "sid": "6422782407"},
 ]
