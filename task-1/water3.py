@@ -20,3 +20,4 @@ def successors(s):
         yield((x,y,3), 3-z)
     
     return []
+hee tits
